@@ -1,2 +1,5 @@
 # recicle_2.0
- Projeto promovendo a sustentabilidade
+ 
+Tecnologia informativa voltada a sustentabilidade.
+ 
+.Projeto Desenvolvido por SELERIEM.
